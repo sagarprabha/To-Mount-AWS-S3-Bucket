@@ -13,6 +13,3 @@ Just Pull the script from my github and execute it from home directory of EC2 li
 
 [do verify whether it's getting synced properly after a object delete/addition,Go to your S3 bucket, and upload a new file]</br>
 
-LinkedIn URL: https://www.linkedin.com/posts/abhinav-singh95_awscloud-aws-linux-activity-7048712800285655040-nQdi?utm_source=share&utm_medium=member_desktop 
-</br>
-Youtube URL : https://youtu.be/V7KWLyiljVs
